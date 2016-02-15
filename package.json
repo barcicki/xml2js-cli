@@ -4,8 +4,12 @@
   "description": "CLI wrapper for xml2json",
   "main": "index.js",
   "scripts": {
+    "start": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Artur Barcicki <barcicki@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^4.1.0"
+  }
 }
