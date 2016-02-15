@@ -1,5 +1,5 @@
 {
-  "name": "xml2json-cli",
+  "name": "xml2js-cli",
   "version": "1.0.0",
   "description": "CLI wrapper for xml2json",
   "main": "index.js",
