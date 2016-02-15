@@ -12,5 +12,8 @@
   "dependencies": {
     "xml2js": "^0.4.16",
     "yargs": "^4.1.0"
+  },
+  "bin": {
+    "xml2json": "./xml2json.js"
   }
 }
