@@ -10,6 +10,7 @@
   "author": "Artur Barcicki <barcicki@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "xml2js": "^0.4.16",
     "yargs": "^4.1.0"
   }
 }
