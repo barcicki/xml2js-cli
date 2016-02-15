@@ -1,0 +1,11 @@
+{
+  "name": "xml2json-cli",
+  "version": "1.0.0",
+  "description": "CLI wrapper for xml2json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Barcicki <barcicki@gmail.com>",
+  "license": "MIT"
+}
